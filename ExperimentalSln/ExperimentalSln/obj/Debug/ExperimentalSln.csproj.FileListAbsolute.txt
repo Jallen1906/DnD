@@ -1,7 +1,0 @@
-C:\Users\James\source\repos\DnD\ExperimentalSln\ExperimentalSln\bin\Debug\ExperimentalSln.exe.config
-C:\Users\James\source\repos\DnD\ExperimentalSln\ExperimentalSln\bin\Debug\ExperimentalSln.exe
-C:\Users\James\source\repos\DnD\ExperimentalSln\ExperimentalSln\bin\Debug\ExperimentalSln.pdb
-C:\Users\James\source\repos\DnD\ExperimentalSln\ExperimentalSln\obj\Debug\ExperimentalSln.csprojAssemblyReference.cache
-C:\Users\James\source\repos\DnD\ExperimentalSln\ExperimentalSln\obj\Debug\ExperimentalSln.csproj.CoreCompileInputs.cache
-C:\Users\James\source\repos\DnD\ExperimentalSln\ExperimentalSln\obj\Debug\ExperimentalSln.exe
-C:\Users\James\source\repos\DnD\ExperimentalSln\ExperimentalSln\obj\Debug\ExperimentalSln.pdb
