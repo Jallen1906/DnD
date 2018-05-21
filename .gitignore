@@ -1,1 +1,5 @@
 *.exe
+.vs/slnx.sqlite
+/ExperimentalSln/.vs/ExperimentalSln/v15/.suo
+/ExperimentalSln/ExperimentalSln/obj/Debug/*
+/ExperimentalSln/ExperimentalSln/obj/Release/*
